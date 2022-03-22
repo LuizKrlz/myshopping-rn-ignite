@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49836186754",
+    "project_id": "lista-de-compras-770be",
+    "storage_bucket": "lista-de-compras-770be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49836186754:android:0ad2f3efebc82abfd8689b",
+        "android_client_info": {
+          "package_name": "com.myshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49836186754-juu9a2ia4gtai7e203rq3nptd7lqna6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNC8rhuDoysVkoz0IeAuFNQom-XTPtziM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49836186754-juu9a2ia4gtai7e203rq3nptd7lqna6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
